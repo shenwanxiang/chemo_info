@@ -1,6 +1,6 @@
 ## what is this ?
 
-This is test code for plotting chemical space and visualize molecule.
+This is test code for plotting chemical space and visualize molecule. hover with drug images
 Projection new molecules to reference chemical space.
 In the repository, structures of drugs were used as reference.
 
